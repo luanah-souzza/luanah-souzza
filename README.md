@@ -12,4 +12,4 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=whi"/>
 </div><br/>
 
-Atualmente curso Análise de Desenvolvimento de Sistemas pela UNIVILLE, acredito que o conhecimento muda a vida das pessoas. 
+Atualmente curso Sistemas para Internet pela UESPI, acredito que o conhecimento muda a vida das pessoas. 
